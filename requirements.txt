@@ -46,6 +46,7 @@ jsonschema-specifications
 MarkupSafe
 matplotlib-inline
 MouseInfo
+maturin
 mysql-connector-python
 nbclient
 nbconvert
