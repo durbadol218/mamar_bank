@@ -104,6 +104,7 @@ stack-data
 terminado
 tinycss2
 tornado
+toml
 traitlets
 types-python-dateutil
 typing_extensions
